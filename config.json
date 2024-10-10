@@ -1,7 +1,7 @@
 {
     "token": "",
     "language": "en",
-    "prefix": "e",
+    "prefix": "!",
     "mongodbUri": "mongodb+srv://tcaothien24:<db_password>@tranlaluotttt.obwxx.mongodb.net/?retryWrites=true&w=majority&appName=tranlaluotttt ",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
